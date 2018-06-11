@@ -2,6 +2,7 @@
 
 # 問題001  
 右側に表示
+![image](https://user-images.githubusercontent.com/29562713/41209475-d316ae9a-6d66-11e8-9043-3cbc48d523f5.png)
 
 # 問題002 
 前後運動

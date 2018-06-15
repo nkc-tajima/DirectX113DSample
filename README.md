@@ -8,39 +8,39 @@
 # 問題002 
 上下運動
 
-![image](https://user-images.githubusercontent.com/29562713/41445011-878c23ce-7081-11e8-8ae6-c4152ade94e3.png)
+![3dsample2](https://user-images.githubusercontent.com/29562713/41461045-779c8f6a-70c9-11e8-8b65-5beb132592ff.gif)
 
 # 問題003 
 矩形に移動
 
-![image](https://user-images.githubusercontent.com/29562713/41445032-b3141d12-7081-11e8-9a0f-8750b695bf21.png)
+![3dsample3](https://user-images.githubusercontent.com/29562713/41461050-7e1d2606-70c9-11e8-8698-a11b5d4220b4.gif)
 
 # 問題004 
 Y軸で回転（自転）
 
-![image](https://user-images.githubusercontent.com/29562713/41445062-e7b15c38-7081-11e8-82d4-a374ff986864.png)
+![3dsample4](https://user-images.githubusercontent.com/29562713/41461051-7e477186-70c9-11e8-8cf8-e7f90d4f0f0d.gif)
 
 # 問題005 
 Y軸を中心に回転（公転）
 
-![image](https://user-images.githubusercontent.com/29562713/41445071-fbe164be-7081-11e8-8064-5e3014950f73.png)
+![3dsample5](https://user-images.githubusercontent.com/29562713/41461052-7e6f8d9c-70c9-11e8-9d0f-298776d1819c.gif)
 
 # 問題006 
 1,0,0のY軸を中心に回転（公転）
 
-![image](https://user-images.githubusercontent.com/29562713/41445136-65cd84e8-7082-11e8-82cf-deaefbb261e3.png)
+![3dsample6](https://user-images.githubusercontent.com/29562713/41461053-7e96b28c-70c9-11e8-861d-76c43747d7f4.gif)
 
 # 問題007 
 衛星動作（公転自転）
 
-![image](https://user-images.githubusercontent.com/29562713/41445182-c60f31e4-7082-11e8-81de-45a261cf3754.png)
+![3dsample7](https://user-images.githubusercontent.com/29562713/41461054-7ebd3498-70c9-11e8-981f-1c656865554e.gif)
 
 # 問題008 
 衛星動作（公転自転）ただし、公転ポリゴンは常に正面を向く
 
-![image](https://user-images.githubusercontent.com/29562713/41445199-e3a51854-7082-11e8-8773-0ad79ae912a2.png)
+![3dsample8](https://user-images.githubusercontent.com/29562713/41461055-7ee7fac0-70c9-11e8-840a-cd2494f00b80.gif)
 
 # 問題EX
 画面全体にポリゴンを並べて表示し、エンターキーが押されたら全て崩れ落ちる
 
-![image](https://user-images.githubusercontent.com/29562713/41445241-2e414c48-7083-11e8-89b3-1e007bac57e2.png)
+![3dsampleex](https://user-images.githubusercontent.com/29562713/41461064-85454576-70c9-11e8-9141-9eb8461ef06e.gif)

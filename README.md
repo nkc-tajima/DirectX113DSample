@@ -47,5 +47,5 @@ Y軸を中心に回転（公転）
 
 # 問題EX2
 画面全体にポリゴンを並べて表示し画像を貼る、エンターキーが押されたら全て崩れ落ちる
-![3dsampleex2](https://github.com/nkc-tajima/DirectX113DSample/tree/master/3DSampleEX2/3DSampleEX2.gif)
+![3dsampleex2](https://user-images.githubusercontent.com/29562713/42310320-17f4ba30-8076-11e8-9522-c898fa550852.gif)
 
